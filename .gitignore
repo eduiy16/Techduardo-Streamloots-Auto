@@ -1,6 +1,7 @@
 # Código fuente
 *.py
 *.spec
+*.version
 
 # Carpeta de compilación
 __pycache__/
