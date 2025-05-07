@@ -1,0 +1,14 @@
+# Código fuente
+*.py
+*.spec
+
+# Carpeta de compilación
+__pycache__/
+build/
+dist/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.db

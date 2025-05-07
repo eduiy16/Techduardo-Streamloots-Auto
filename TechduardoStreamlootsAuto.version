@@ -1,0 +1,29 @@
+# techduardo.version
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(0, 8, 0, 0),
+    prodvers=(0, 8, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x4,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        '040904B0',
+        [StringStruct('CompanyName', 'Techduardo'),
+         StringStruct('FileDescription', 'Techduardo Streamloots Auto'),
+         StringStruct('FileVersion', '0.8.0'),
+         StringStruct('InternalName', 'StreamlootsAuto'),
+         StringStruct('LegalCopyright', '©Techduardo ©eduiy16'),
+         StringStruct('OriginalFilename', 'Techduardo Streamloots Auto.exe'),
+         StringStruct('ProductName', 'Techduardo Streamloots Auto'),
+         StringStruct('ProductVersion', '0.8.0')])
+      ]),
+    VarFileInfo([VarStruct('Translation', [3082, 1200])])
+  ]
+)

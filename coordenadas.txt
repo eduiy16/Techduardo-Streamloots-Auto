@@ -1,0 +1,41 @@
+{
+    "POS_TEXTO_SUBS": [
+        1133,
+        729
+    ],
+    "POS_COFRES": [
+        1152,
+        815
+    ],
+    "POS_CERRAR_DESPL": [
+        1061,
+        727
+    ],
+    "POS_BOTON_ENVIAR": [
+        1399,
+        996
+    ],
+    "TECLA_ACTIVACION": "f3",
+    "MESES_COFRES": [
+        {
+            "min": 1,
+            "max": 5,
+            "cofres": 1
+        },
+        {
+            "min": 6,
+            "max": 11,
+            "cofres": 2
+        },
+        {
+            "min": 12,
+            "max": null,
+            "cofres": 3
+        }
+    ],
+    "TIER_BONUS": {
+        "Tier 1": 1,
+        "Tier 2": 2,
+        "Tier 3": 3
+    }
+}
