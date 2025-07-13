@@ -4,8 +4,14 @@ Todos los cambios importantes de este proyecto serán documentados en este archi
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es/1.0.0/), y este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.9.0] - 2025-07-08
+### Added
+- Compatibilidad completa con la nueva fuente de actividades de StreamElements (actualizada de manera obligatoria en Julio de 2025).
+- Soporte para el nuevo formato de escritura de la fuente de actividades.
+- Ejecución totalmente en segundo plano, sin mostrar ventana de consola como pasaba en la 0.8.0.
+
 ## [0.8.0] - 2025-05-06
-### Añadido
+### Added
 - Se permite configurar la cantidad de cofres que se entregan según los meses de suscripción.
 - Se puede definir cuántos cofres adicionales se asignan según el tipo de suscripción (Tier 1, Tier 2 o Tier 3).
 - La configuración personalizada se guarda automáticamente y se aplica en cada ejecución del programa.

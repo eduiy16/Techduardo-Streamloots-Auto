@@ -2,10 +2,7 @@
 
 Automatización personalizada para entregar cofres en Streamloots de forma rápida, precisa y sin errores manuales.
 
-Este programa permite entregar cofres de Streamloots con una configuración establecida por el usuario, basada en nivel de suscripción y meses, y entregarlos todo con una tecla personalizada.
-Ejemplos:
-- Suscripción de 12 meses (3 cofres) con Prime (+0 cofres).
-- Suscripción de 7 meses (2 cofres) con Tier 2 (+2 cofres).
+Este programa permite configurar posiciones en pantalla, ajustar cofres según tipo de suscripción y tiempo, y ejecutar todo con una tecla personalizada.
 
 ## Características principales
 
@@ -24,9 +21,9 @@ Ejemplos:
 
 Este programa se distribuye en un archivo `.zip`. Todos los archivos deben mantenerse en la **misma carpeta** para que funcione correctamente:
 
-- `Techduardo Streamloots Auto.exe` (programa).
-- `Techduardo_Logo_Icon.ico` (icono).
-- `coordenadas.txt` (Coordenadas guardadas).
+- `Techduardo Streamloots Auto.exe`
+- `Techduardo_Logo_Icon.ico`
+- `coordenadas.txt` (se generará automáticamente tras la primera ejecución)
 
 ## Guía de uso
 
